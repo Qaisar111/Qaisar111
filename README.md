@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width: 100%;"> I'm Qaisar Abbas
+
+Hello again! Thanks for scrolling this far!! 🤗 I'm a front-end web developer with a background in Software Engineering & Computer Science. My 6 years of IT experience has given me a strong foundation for web development and building complex solutions.
+
+I am passionate about coding and solving problems through code, and I am excited to work alongside other amazing programmers and learn so much more!
+
+I do React Js projects
 
 <!--
 **Qaisar111/Qaisar111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
